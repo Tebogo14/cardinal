@@ -9,7 +9,8 @@ namespace Cardinal
     {
         private static void Main(string[] args)
         {
-            var words = File.ReadAllLines(@"C:\Users\tebog\Downloads\Technical Interview Test\words.txt").Select(x => x);
+            
+            var words = File.ReadAllLines(@"..\..\..\words.txt").Select(x => x);
             var returnWords = new List<string>();
 
             char[,] array = new char[5, 5] { {'r', 'i', 'o', 't', 'f'},
