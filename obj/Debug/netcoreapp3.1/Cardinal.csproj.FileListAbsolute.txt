@@ -1,0 +1,13 @@
+C:\Users\tebog\source\repos\Cardinal\obj\Debug\netcoreapp3.1\Cardinal.csprojAssemblyReference.cache
+C:\Users\tebog\source\repos\Cardinal\obj\Debug\netcoreapp3.1\Cardinal.AssemblyInfoInputs.cache
+C:\Users\tebog\source\repos\Cardinal\obj\Debug\netcoreapp3.1\Cardinal.AssemblyInfo.cs
+C:\Users\tebog\source\repos\Cardinal\obj\Debug\netcoreapp3.1\Cardinal.csproj.CoreCompileInputs.cache
+C:\Users\tebog\source\repos\Cardinal\bin\Debug\netcoreapp3.1\Cardinal.exe
+C:\Users\tebog\source\repos\Cardinal\bin\Debug\netcoreapp3.1\Cardinal.deps.json
+C:\Users\tebog\source\repos\Cardinal\bin\Debug\netcoreapp3.1\Cardinal.runtimeconfig.json
+C:\Users\tebog\source\repos\Cardinal\bin\Debug\netcoreapp3.1\Cardinal.runtimeconfig.dev.json
+C:\Users\tebog\source\repos\Cardinal\bin\Debug\netcoreapp3.1\Cardinal.dll
+C:\Users\tebog\source\repos\Cardinal\bin\Debug\netcoreapp3.1\Cardinal.pdb
+C:\Users\tebog\source\repos\Cardinal\obj\Debug\netcoreapp3.1\Cardinal.dll
+C:\Users\tebog\source\repos\Cardinal\obj\Debug\netcoreapp3.1\Cardinal.pdb
+C:\Users\tebog\source\repos\Cardinal\obj\Debug\netcoreapp3.1\Cardinal.genruntimeconfig.cache
